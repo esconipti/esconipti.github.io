@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esconipti.github.io/sitemap.html.gz
+Sitemap: https://esconipti.github.io/app/sitemap.html.gz
+Sitemap: https://esconipti.github.io/assets/sitemap.html.gz
+Sitemap: https://esconipti.github.io/css/sitemap.html.gz
+Sitemap: https://esconipti.github.io/includes/sitemap.html.gz
+Sitemap: https://esconipti.github.io/item/sitemap.html.gz
+Sitemap: https://esconipti.github.io/src/sitemap.html.gz
